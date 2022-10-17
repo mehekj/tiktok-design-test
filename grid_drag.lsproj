@@ -1,0 +1,1667 @@
+{
+    "lens_id": "",
+    "document_id": "Z9rD9X3ThxbiCo4CZMh9",
+    "original_document_id": "R475oxKNXN6Cm6jLHb3L",
+    "version": "29",
+    "lastChanged": "1645574419510",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "black"
+                    ],
+                    [
+                        "cam 1"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 1"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 10"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 11"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 12"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 13"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 14"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 15"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 16"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 17"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 18"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 19"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 2"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 20"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 21"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 22"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 23"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 24"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 3"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 4"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 5"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 6"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 7"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 8"
+                    ],
+                    [
+                        "crop_texture",
+                        "Screen Crop Texture 9"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1645403875969704:306794",
+                    "1645403882052727:307880",
+                    "1645403887024358:308828",
+                    "1645404056325785:341857",
+                    "1645404068722115:343838"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_draw_with_your_finger"
+            ],
+            "lens": "draggable grid tes",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "true"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1645403901292577:311283",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1645404443670862:390851",
+                    "name": "Files\/File8.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1645407926180052:17744",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1645408537978051:171198",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1645408607265426:184413",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1645408619814853:186593",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "73",
+                    "uid": "1645408724876834:206036",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1645408752227529:212323",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1645408762612028:214265",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1645408771923345:216081",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1645408948379413:281055",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1645408993665156:288152",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1645409003665477:290072",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "80",
+                    "uid": "1645409010392723:291590",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1645409020228599:293496",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "82",
+                    "uid": "1645409045757480:300691",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1645409046062796:301415",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "84",
+                    "uid": "1645409046612391:302171",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "85",
+                    "uid": "1645416551820269:1378018",
+                    "name": "Files\/File12.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "86",
+                    "uid": "1645466806224959:322864",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "87",
+                    "uid": "1645466806596372:323559",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "88",
+                    "uid": "1645466806896024:324252",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "89",
+                    "uid": "1645466807229644:324326",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "90",
+                    "uid": "1645466914107866:370138",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "91",
+                    "uid": "1645466914444851:370933",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "92",
+                    "uid": "1645466914713153:371728",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "93",
+                    "uid": "1645466914979257:371790",
+                    "name": "Screen Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1645404452241556:392632",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645404452291165:392774",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645404549248651:408528",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408302364220:77178",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408350395125:85923",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408353834357:89222",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408357751596:92660",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408360564484:96019",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408362711441:99281",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408364721398:102595",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408366817583:105918",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408369269100:109297",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408371290003:112641",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408373415959:116082",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408376701255:119717",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408379031895:123238",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408380760455:126672",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645408382666013:130226",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645466802924088:312616",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645466803344251:315239",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645466803706395:317872",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645466804076064:320252",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645466908360562:356820",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645466909205181:360264",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645466910037403:363059",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1645466911037502:366591",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1645404452231955:392568",
+                "4": "1645404452240877:392630",
+                "5": "1645404452290963:392773",
+                "6": "1645404549232376:408264",
+                "7": "1645404549248651:408528",
+                "8": "1645404549261194:408662",
+                "9": "1645408302348977:76914",
+                "10": "1645408350380036:85663",
+                "11": "1645408353818967:88962",
+                "12": "1645408357736527:92400",
+                "13": "1645408360549328:95759",
+                "14": "1645408362696257:99021",
+                "15": "1645408364706525:102335",
+                "16": "1645408366802027:105654",
+                "17": "1645408369253697:109037",
+                "18": "1645408371274152:112381",
+                "19": "1645408373399972:115818",
+                "20": "1645408376685835:119457",
+                "21": "1645408379016138:122978",
+                "22": "1645408380745089:126412",
+                "23": "1645408382650836:129966",
+                "24": "1645416641883394:1393110",
+                "25": "1645466802909353:312356",
+                "26": "1645466803329455:314975",
+                "27": "1645466803691359:317608",
+                "28": "1645466804061772:319992",
+                "29": "1645466908345441:356560",
+                "30": "1645466909189915:360000",
+                "31": "1645466910022176:362795",
+                "32": "1645466911022578:366331"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.jpeg"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.jpeg"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.jpeg"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.jpeg"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.js"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "26334",
+                        "v": "black.jpeg"
+                    },
+                    {
+                        "k": "26337",
+                        "v": "crop_texture"
+                    },
+                    {
+                        "k": "26340",
+                        "v": "Script 2.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "26334",
+                        "v": "dee5725d1e2c36ed7d50a3ade4984e4e"
+                    },
+                    {
+                        "k": "26335",
+                        "v": "cbfcff8eaf98c4e23454536aa790050c"
+                    },
+                    {
+                        "k": "26340",
+                        "v": "7b4184540f010487574e4fe3470c62d3"
+                    },
+                    {
+                        "k": "26341",
+                        "v": "191b4865cca4fc8ec734eae41332b64a"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-02-21T13:10:15",
+                        "name": "Public",
+                        "hash": "cf519e96f7645a74a502c952d48dbadb",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-21T13:10:15",
+                                "name": "Script 2.js",
+                                "hash": "7b4184540f010487574e4fe3470c62d3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-20T19:46:22",
+                                "name": "black.jpeg",
+                                "hash": "dee5725d1e2c36ed7d50a3ade4984e4e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-21T12:28:07",
+                                "name": "crop_texture",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-20T20:54:07",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-01-24T12:34:45",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-01-24T12:34:45",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "resourceInfoExportKey": {
+                                "RenderTargetRole": "1"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "black",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "66",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1645404443670862:390851",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "26334",
+                        "source": "\/Users\/mehekjethani\/Documents\/SnapLensStudio\/assets\/black.jpeg",
+                        "additional": {
+                            "originHash": "dee5725d1e2c36ed7d50a3ade4984e4e"
+                        }
+                    },
+                    {
+                        "name": "crop_texture",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26337",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Screen Crop Texture 1",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "68",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645407926180052:17744",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 2",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "69",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645408537978051:171198",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 3",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "70",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645408607265426:184413",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 4",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "71",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645408619814853:186593",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 5",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "73",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645408724876834:206036",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 6",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "74",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645408752227529:212323",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 7",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "75",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645408762612028:214265",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 8",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "76",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645408771923345:216081",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 9",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "77",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645408948379413:281055",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 10",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "78",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645408993665156:288152",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 11",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "79",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645409003665477:290072",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 12",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "80",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645409010392723:291590",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 13",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "81",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645409020228599:293496",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 14",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "82",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645409045757480:300691",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 15",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "83",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645409046062796:301415",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 16",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "84",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645409046612391:302171",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 17",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "86",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645466806224959:322864",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 18",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "87",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645466806596372:323559",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 19",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "88",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645466806896024:324252",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 20",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "89",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645466807229644:324326",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 21",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "90",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645466914107866:370138",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 22",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "91",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645466914444851:370933",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 23",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "92",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645466914713153:371728",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Crop Texture 24",
+                                "type": "1",
+                                "subtype": "18",
+                                "resourceId": "93",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645466914979257:371790",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "cam 1",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "42",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1645403901292577:311283",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Script 2",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "85",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1645416551820269:1378018",
+                        "fileId": "12",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26340",
+                        "source": "\/Users\/mehekjethani\/Documents\/SnapLensStudio\/grid_drag\/Public\/Script 2.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1645416641883394:1393110"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1645404443670862:390851",
+                    "v": {
+                        "infos": {
+                            "originalSize": "30665",
+                            "compressedSize": "30665",
+                            "originalRAM": "12582912",
+                            "compressedRAM": "12582912",
+                            "extension": "jpeg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "10",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "8ebc087550c4332b69feae9a4cae8074",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "11"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.13.0"
+}
